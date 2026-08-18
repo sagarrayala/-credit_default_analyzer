@@ -142,9 +142,6 @@ credit_default_analyzer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-⚙️ Installation
-Clone Repository
-git clone https://github.com/sagarrayala/-credit_default_analyzer.git
 
 cd credit-default-analyzer
 Create Virtual Environment
