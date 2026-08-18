@@ -54,7 +54,7 @@ The dataset is moderately imbalanced, therefore evaluation uses multiple metrics
 
 ## Streamlit Application
 
-https://credit-default-analyzer.streamlit.app
+[https://credit-default-analyzer.streamlit.app](https://sagarrayala--credit-default-analyzer-app-llsdit.streamlit.app/)
 
 ---
 
